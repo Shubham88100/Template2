@@ -1,0 +1,80 @@
+#header{
+    margin:0;
+    padding: 0;
+    align-items: center;
+}
+#head{
+    margin-left: 200px;
+          
+}
+#input_1{
+    border: 2px solid whitesmoke;
+    width: 280px;
+    margin-left: 450px;
+    margin-top:-70px;
+    padding: 5px;
+}
+#input_2{
+    height:25px;
+    border-style: none;
+}
+#red{
+    color:red;
+    padding: 5px;
+}
+#search{
+    background-color: red;
+    color: white;
+    height: 25px;
+    margin-left: 35px;
+    border-style: none;
+}
+#part_1{
+    float: left;
+    margin-left:800px;
+    margin-top: -60px;
+}
+#part_2{
+    float: left;
+    margin-left:1000px;
+    margin-top: -102px;
+    
+}
+#head_1{
+    float:left;
+    list-style-type: none;
+    margin-top: -80px;
+    margin-left: 1200px;
+}
+#head_1 li{
+    display: inline-block;
+    padding: 10px;
+}
+#list{
+    float:left;
+    list-style-type:none;
+    margin-top:-30px;
+    margin-left: 410px;
+    
+}
+#list li{
+    display: inline-flex;
+    padding: 10px;
+
+}
+#list a{
+    text-decoration: none;
+}
+#list h3{
+    color:black;
+    margin-left: 15px;
+
+}
+#list i{
+    margin-left: 20px;
+    margin-top: 24px;
+    color: gray;
+}
+#Contact h3{
+    color:red;
+}
